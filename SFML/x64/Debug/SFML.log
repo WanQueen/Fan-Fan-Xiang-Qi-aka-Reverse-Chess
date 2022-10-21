@@ -1,0 +1,41 @@
+﻿  SFML.cpp
+C:\Users\25403\source\repos\SFML FFXQ\SFML\Chess.h(36,2): warning C4091: “typedef ”: 没有声明变量时忽略“CHESS_TYPE”的左侧
+C:\Users\25403\source\repos\SFML FFXQ\SFML\Chess.h(42,2): warning C4091: “typedef ”: 没有声明变量时忽略“CHESS_BLOC”的左侧
+C:\Users\25403\source\repos\SFML FFXQ\SFML\Chess.h(351,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\25403\source\repos\SFML FFXQ\SFML\Game.h(17,2): warning C4091: “typedef ”: 没有声明变量时忽略“GAME_STATE”的左侧
+C:\Users\25403\source\repos\SFML FFXQ\SFML\Game.h(24,2): warning C4091: “typedef ”: 没有声明变量时忽略“PIECE_STATE”的左侧
+C:\Users\25403\source\repos\SFML FFXQ\SFML\Game.h(116,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\25403\source\repos\SFML FFXQ\SFML\Game.h(117,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\25403\source\repos\SFML FFXQ\SFML\Game.h(127,44): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\25403\source\repos\SFML FFXQ\SFML\Game.h(127,25): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\25403\source\repos\SFML FFXQ\SFML\Game.h(136,48): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\25403\source\repos\SFML FFXQ\SFML\Game.h(136,43): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\25403\source\repos\SFML FFXQ\SFML\Game.h(158,139): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\25403\source\repos\SFML FFXQ\SFML\Game.h(158,66): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\25403\source\repos\SFML FFXQ\SFML\Game.h(232,80): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+C:\Users\25403\source\repos\SFML FFXQ\SFML\Game.h(233,80): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+C:\Users\25403\source\repos\SFML FFXQ\SFML\Game.h(243,81): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+C:\Users\25403\source\repos\SFML FFXQ\SFML\Game.h(244,81): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+C:\Users\25403\source\repos\SFML FFXQ\SFML\Game.h(782,123): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\25403\source\repos\SFML FFXQ\SFML\Game.h(782,63): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\25403\source\repos\SFML FFXQ\SFML\Game.h(788,123): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\25403\source\repos\SFML FFXQ\SFML\Game.h(788,62): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\25403\source\repos\SFML FFXQ\SFML\Game.h(796,53): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\25403\source\repos\SFML FFXQ\SFML\Game.h(802,53): warning C4305: “参数”: 从“double”到“float”截断
+  SFML.vcxproj -> C:\Users\25403\source\repos\SFML FFXQ\x64\Debug\SFML.exe
